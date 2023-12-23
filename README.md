@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+#AI이해를 위한 파이썬 기초
 TEST
 Test2
 Test3
