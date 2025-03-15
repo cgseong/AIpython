@@ -6,7 +6,7 @@
 
 아래 링크에서 각 주제별 강의 노트를 확인하실 수 있습니다:
 
-1. [인공지능의 개요 및 개념](./1주차 강의노트.md)
+1. [인공지능의 개요 밀 개념](./lectures/1주차_강의노트.md)
 2. [데이터 구조와 알고리즘](./lectures/02_data_structures.md)
 3. [NumPy 기초](./lectures/03_numpy_basics.md)
 4. [Pandas를 활용한 데이터 분석](./lectures/04_pandas_basics.md)
